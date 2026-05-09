@@ -1,4 +1,4 @@
-# Employee Turnover Prediction using Logistic Regression
+# Heart Disease Prediction using Logistic Regression and Feature Scaling
 
 ## 📌 Project Overview
 
